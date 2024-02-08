@@ -1,0 +1,7 @@
+     Training     Pulse          Duration   
+ Other   :1   Min.   :100.0   Min.   :30.0  
+ Stamina :1   1st Qu.:110.0   1st Qu.:37.5  
+ Strength:1   Median :120.0   Median :45.0  
+              Mean   :123.3   Mean   :45.0  
+              3rd Qu.:135.0   3rd Qu.:52.5  
+              Max.   :150.0   Max.   :60.0
